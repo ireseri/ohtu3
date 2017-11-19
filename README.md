@@ -1,1 +1,1 @@
-# ohtu3
+# ohtu-week3
